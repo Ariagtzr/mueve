@@ -27,7 +27,10 @@ El reto de nuestro equipo, comprendido por Viviana Navarro, Ariadna Gutiérrez, 
 
 El objetivo de este reto será el rediseño UX y UI de una aplicación móvil enfocada al usuario final, implementando las mejoras en su experiencia. Deberá ser visualmente atractiva y sencilla de utilizar.
 
+La app necesita ser mas atractiva e intuitiva.
+
 Los objetivos particulares de la empresa son: 
+
 
 1. Experiencia de la interfaz sencilla y agradable.
 2. Plantear un ecosistema de carga para formar una app.
@@ -97,6 +100,8 @@ Muestra un mapa con más de 200,000 puntos de recarga para vehículos eléctrico
 
 Electromaps permite encontrar todos los puntos de recarga para vehículos eléctricos disponibles para el uso público. 
  
+Esta aplicación es un nuevo paso hacia el desarrollo de una mejor relación entre los clientes y las tecnologías de edrive.
+
 **Pros:**
 
 - Muestra las estaciones de carga en funcionamiento e incluso la potencia del cargador.
@@ -162,6 +167,7 @@ Waze es una aplicación que proporciona datos sobre el tráfico, obras, accident
 ### Edrive
 Esta aplicación es un nuevo paso hacia el desarrollo de una mejor relación entre los clientes y las tecnologías de edrive. El equipo de edrive technologies cree que la nueva era de la tecnología solo se puede cumplir al proporcionar y satisfacer las necesidades diarias del cliente proporcionándole nuevas tecnologías. 
 
+
 **Pros:**
 
 - Facilidad de uso y navegación.
@@ -198,7 +204,6 @@ Las características más buscadas en las aplicaciones que ya están en funciona
 
 Yo como usuario, quiero loguearme con mi correo y contraseña.
 Yo como usuario, quiero tener acceso a puntos de recarga.
-Yo como usuario, quiero iniciar mi carga
 Yo como usuario, quiero poder configurar mi método de pago.
 Yo como usuario, quiero tener acceso al histórico de mis consumos.
 
@@ -234,8 +239,8 @@ Yo como usuario, quiero tener acceso al histórico de mis consumos.
 * Muestra atajos para acciones frecuentes(exp.)
 
 - [ ] Diseño estético y minimalista:
-*El home presenta exceso de información
-*No hay una segmentación clara de los eventos 
+* El home presenta exceso de información
+* No hay una segmentación clara de los eventos 
 * Muestra información necesaria
 * La presentación de la interfaz presenta armonía
 
@@ -273,62 +278,10 @@ México cuenta con 900 estaciones de carga para vehículos eléctricos.
 Datos de la Asociación Mexicana de la Industria Automotriz (AMIA) indica que en 2016 se vendieron 8 mil 260 unidades de vehículos híbridos y eléctricos, mientras de enero a noviembre de 2017 la cifra aumentó a 9 mil 177 vehículos. 
 Los Estados con mayor venta de vehículos híbridos y eléctricos son Ciudad de México con el 44.6%, Estado de México con 13.4%, Jalisco con 7.2%, Nuevo León con 6.1% y Michoacán con 2.9%.
 
-                                          Estadísticas a 18-07-2019
 
+## User Person ##
 
-
-
-Datos a nivel país de México 2019.
-
-
-
-Tipos de recarga
-Hablamos de conectores y los diferentes métodos de recarga, que infieren directamente en la compatibilidad entre el punto de recarga y el vehículo
-RECARGA CONVENCIONAL (16 Amperios)
-El vehículo se enchufa durante aproximadamente 8 horas para obtener una carga completa.
-La carga convencional monofásica emplea la intensidad y voltaje eléctricos del mismo nivel que la propia vivienda, es decir, 16 amperios y 230 voltios. Esto implica que la potencia eléctrica que puede entregar el punto para este tipo de cargas es de aproximadamente 3,7 kW.
-Con este nivel de potencia, el proceso de carga de la batería tarda unas 8 horas. Esta solución es óptima, fundamentalmente, para recargar el vehículo eléctrico durante la noche en un garaje de una vivienda unifamiliar o garaje comunitario.
-Para conseguir que el vehículo eléctrico sea una realidad y teniendo en cuenta el sistema eléctrico actual, la recarga óptima desde el punto de vista de eficiencia energética, es realizar este tipo de recarga durante el período nocturno, que es cuando menos demanda energéticaexiste.
-
-RECARGA SEMI-RÁPIDA (32 Amperios)
-El vehículo se enchufa durante aproximadamente 4 horas, la mitad de las horas que implica la recarga convencional, para obtener una carga completa.
-La carga semi-rápida emplea 32 amperios de intensidad y 230 VAC de voltaje eléctrico. Esto implica que la potencia eléctrica que puede entregar el punto para este tipo de cargas es de aproximadamente 7,3kW.
-Con este nivel de potencia, el proceso de carga de la batería tarda unas 4 horas. Esta solución es óptima, fundamentalmente, para recargar el vehículo eléctrico durante la noche en un garaje de una vivienda unifamiliar o garaje comunitario.
-RECARGA RÁPIDA
-El vehículo se enchufa durante aproximadamente 30 minutos para obtener una carga del 80% de la batería.
-La carga rápida emplea una mayor intensidad eléctrica y, además, entrega la energía en corriente continua, obteniéndose una potencia de salida del orden de 50kW.
-Esta solución es la que, desde el punto de vista del cliente, se asemeja a sus hábitos actuales de repostaje con un vehículo de combustión.
-Esta cargas deben ser concebidas como extensión de autonomía o cargas de conveniencia.
-Las exigencias a nivel eléctrico son mayores que en la recarga convencional. Lo que puede implicar la necesidad de adecuación de la red eléctrica existente. Por poner una referencia, la potencia requerida para este tipo de instalaciones es comparable a la de un edificio de 15 viviendas.
-
- 
-Una de las dudas más recurrentes acerca de los vehículos eléctricos es la referente al tema de su recarga: ¿cómo recargo mi vehículo?, ¿durante cuánto tiempo lo tengo que dejar cargando?
-
-La recarga de los vehículos eléctricos depende fundamentalmente del tipo de carga, el modo de carga y el tipo de conector. Estos factores dependen de las características que presente tu vehículo y del lugar donde recargues tu vehículo.
-Un aspecto importante es destacar que, a día de hoy, no todos los vehículos eléctricos disponen de las mismas características de carga. Es importante que te informes bien en el concesionario y preguntes acerca de este tema antes de comprar el vehículo.
-Carga en casa. Por las noches.
-Siempre que te sea posible, lo más cómodo y usual es que recargues tu vehículo en tu vivienda (o en su defecto en el trabajo) en caso de tener esta posibilidad. La solución más económica es recargar el vehículo por la noche, cuando las tarifas son de bajo coste (durante el periodo nocturno puede llegar a ser un tercio del coste durante el día). Con las autonomías actuales de los vehículos, éstos pueden quedar cargados sin problema al 100% como máximo en 8 horas siempre que para la recarga estés utilizando un punto de recarga específico de vehículo eléctrico.
-Cuando se adquiere el vehículo en el concesionario, normalmente suele venir con un cable que llaman de “emergencia” y que es compatible con un enchufe doméstico (Schuko). Aun así, esto no suele ser lo más recomendable, ya que es probable que el enchufe del que dispongas en tu vivienda no esté dimensionado eléctricamente para un uso intensivo como es el de la carga de un vehículo eléctrico y además, cargarlo en un enchufe doméstico en lugar de utilizar un punto de recarga específico siempre conllevará más tiempo de recarga. Por ello, lo más recomendable sería la utilización de un punto de recarga específico instalado normalmente en alguna pared anexa a la plaza de garaje para conseguir una mayor seguridad y eficacia en la recarga de nuestro vehículo.
-
- 
-Por otro lado, tenemos que conocer qué conector tiene nuestro vehículo, es decir, qué conector está en la bocana del vehículo donde conectamos uno de los lados del cable de carga. Existen dos tipos: algunos vehículos vienen con un tipo de conector denominado técnicamente como SAE J1772 (conector tipo 1) o y otros con un conector Mennekes (conector tipo 2). Es importante conocer que no todos los vehículos tienen el mismo conector en la estructura del vehículo, sobre todo porque si nos encontramos en la calle con un punto de recarga con el cable incorporado que vaya directamente a la bocana del vehículo, debemos cerciorarnos de que es compatible.Físicamente es sencillo, porque físicamente no se puede conectar un cable con conector de un tipo en un vehículo que tenga otra tipología. Como todo producto que es nuevo y que evoluciona, seguramente en el futuro solo haya una tipología de conector, (como ha ocurrido con los USB) pero hasta que llegue ese momento debemos tener en cuenta esto cuando compremos nuestro vehículo.
-Además de este tipo de recarga convencional, donde hemos dicho que con las baterías actuales se carga aproximadamente un vehículo eléctrico 100% entre 6 y 8 horas, hay vehículos que adicionalmente tienen otras tipologías de carga (Carga semirrápida o carga rápida) que permiten al vehículo poder cargar en una hora o en 30 minutos el 80% de la batería. Esta carga más rápida solo es posible si por un lado el vehículo dispone de esta funcionalidad y por otro se utiliza la infraestructura de recarga adecuada. A continuación se explica un poco más esta posibilidad.
-En cualquier caso os recomendamos que os informéis bien de las opciones disponibles respecto a tipos de conectores, tipos de recarga y modos de recarga que más se adecuan a nuestras necesidades específicas.
-Carga en vía pública.
-La carga semirrápida y la carga rápida se encuentran principalmente en la infraestructura de acceso público ( vía pública, estaciones de servicios, centros comerciales, etc). La primera nos da la posibilidad de cargar nuestro vehículo en una hora aproximadamente y la segunda nos permite cargar hasta el 80% de la batería del vehículo en unos 30 minutos (dependiendo también del vehículo) siendo, a día de hoy, la que más se asemeja al repostaje en gasolineras convencionales.
-Algunos vehículos traen de serie la carga rápida, otros como un opcional y otros no la contemplan. Es importante tener en cuenta antes de comprar el vehículo si tiene esta opción. En caso afirmativo, su coste (algunos fabricantes la ponen de serie y otros como un opcional con coste), porque para determinados usos, puede ser necesario utilizar una carga más rápida y si el vehículo no la contempla, luego no se puede incorporar.
-Entre los tipos de conectores que permiten la carga rápida nos encontramos, los conectores CCS Combo, conector CHAdeMO y el conector Mennkes.
-Para finalizar
-Si vas a poder cargar tu vehículo en tu casa bajo el mismo contrato eléctrico de tu vivienda, debes valorar si pasarte o no a una tarifa con discriminación horaria, ya que puede suponerte un ahorro considerable si vas a poder cargar tu vehículo durante la noche. Tanto los vehículos como algunos puntos de recarga pueden programar la carga y cargarlo durante las horas más baratas, pudiendo dejar el cable conectado el vehículo se pondrá a cargar a la una de la mañana, cuando la energía es más barata (siempre que tengas una tarifa con discriminación horaria)
-En el caso de carga rápida, lo más recomendable es proceder a la misma cuando la batería esté lo más descargada posible, para conseguir una mayor eficiencia en el proceso. Aun así se recomienda no utilizar esta tipología de carga como la carga habitual y única de la batería.
-Es importante no olvidarse de llevar siempre en el maletero los tipos de cable que tu vehículo permite para poder hacer frente a cualquier eventualidad que pudiera surgir (cable de emergencia con un Schuko).
-Antes de dejar el vehículo, siempre que no hayas programado la carga para más tarde, está bien que te asegures de que el proceso de recarga se ha iniciado correctamente, comprobándolo en el cuadro de mando del vehículo o dependiendo del modelo en las indicaciones del conector o en las señales luminosas del vehículo.
-Desde Endesa recomendamos siempre la instalación de un punto de recarga en casa, en lugar de cargar tu vehículo directamente al enchufe de tu vivienda, por motivos de seguridad, comodidad y reducción del tiempo de carga.
-
-
-## User Persona ##
-
-Nuestra User persona utilizamos el método de shadowing en redes sociales, que nos permitió conocer en poco tiempo, a los dueños de autos eléctricos que fomentan el uso de ellos. Realizamos una encuesta que hicimos llegar a un club de Fans de Autos Eléctricos, sin embargo la falta de tiempo no permitió que ellos nos dieran alguna respuesta favorable. Por lo que optamos por encontrar un perfil con respecto a los distintos perfiles que localizamos de personas que tienen autos eléctricos buscando un patrón de ellos. Por lo regular son personas que tienen familia, y ven a futuro por el bienestar de ellos.
+Para nuestra User Person utilizamos el método de shadowing en redes sociales, que nos permitió conocer en poco tiempo, a los dueños de autos eléctricos que fomentan el uso de ellos. Realizamos una encuesta que hicimos llegar a un club de Fans de Autos Eléctricos, sin embargo la falta de tiempo no permitió que ellos nos dieran alguna respuesta favorable. Por lo que optamos por encontrar un perfil con respecto a los distintos perfiles que localizamos de personas que tienen autos eléctricos buscando un patrón de ellos. Por lo regular son personas que tienen familia, y ven a futuro por el bienestar de ellos.
 
 
 
@@ -349,3 +302,6 @@ Decidimos utilizar la herramienta de value proposition canvas para fijar qué es
 
 
 
+## Propuesta de Valor ##
+
+Para este punto ya utilizando las herramientas del análisis de heurísticas de la aplicación Müeve, así como un benchmark de la competencia que nos permitió verificar que están ofreciendo en sus aplicaciones y que se podría implementar, este segmento de México, de enero a octubre del 2018 se han vendido...
