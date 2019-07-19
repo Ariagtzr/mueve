@@ -1,4 +1,4 @@
-# M Ü E V E # ⚡🔋
+# M Ü E V E ⚡🔋
 
 ## Índice
 
@@ -32,7 +32,7 @@ La app necesita ser mas atractiva e intuitiva.
 Los objetivos particulares de la empresa son: 
 
 
-- ![benchmark](./images/board.png)
+
 
 1. Experiencia de la interfaz sencilla y agradable.
 2. Plantear un ecosistema de carga para formar una app.
@@ -48,7 +48,8 @@ Los objetivos particulares de la empresa son:
 
 ## Benchmark 📊
 
-![benchmark](https://drive.google.com/file/d/1LQG3vu5wJkO3istja8r0AiALlRe59s95/)
+- ![benchmark](./images/board.png)
+
 
 ### Ecocarga 🌳🔋
 
@@ -270,11 +271,7 @@ Observaciones en la app Müeve:
 * No tiene un punto de ayuda o chat de comunicación para  auxiliar al usuario.
 
 
-
-
-
-
-### Contexto ### 📋
+### Contexto 📋
 
 
 México cuenta con 900 estaciones de carga para vehículos eléctricos.
@@ -291,15 +288,15 @@ Los Estados con mayor venta de vehículos híbridos y eléctricos son Ciudad de 
 
 
 
-## User Person ## 💁‍
+## User Persona 💁‍
 
-Para nuestra User Person utilizamos el método de shadowing en redes sociales, que nos permitió conocer en poco tiempo, a los dueños de autos eléctricos que fomentan el uso de ellos. Realizamos una encuesta que hicimos llegar a un club de Fans de Autos Eléctricos, sin embargo la falta de tiempo no permitió que ellos nos dieran alguna respuesta favorable. Por lo que optamos por encontrar un perfil con respecto a los distintos perfiles que localizamos de personas que tienen autos eléctricos buscando un patrón de ellos. Por lo regular son personas que tienen familia, y ven a futuro por el bienestar de ellos.
+Para nuestra User Persona utilizamos el método de shadowing en redes sociales, que nos permitió conocer en poco tiempo, a los dueños de autos eléctricos que fomentan el uso de ellos. Realizamos una encuesta que hicimos llegar a un club de Fans de Autos Eléctricos, sin embargo la falta de tiempo no permitió que ellos nos dieran alguna respuesta favorable. Por lo que optamos por encontrar un perfil con respecto a los distintos perfiles que localizamos de personas que tienen autos eléctricos buscando un patrón de ellos. Por lo regular son personas que tienen familia, y ven a futuro por el bienestar de ellos.
 
 
 - ![benchmark](./images/user.png)
 
 
-## Storyboard ## 📚
+## Storyboard  📚
 
 Historia de nuestro usuario documentada en video:
 
@@ -308,7 +305,7 @@ Allan sale de su hogar y aborda junto con su esposa un Taxari vehículo Italiano
 Video:
 https://www.facebook.com/franciscomcabeza/videos/vb.713948332/10156341035933333/?type=2&video_source=user_video_tab
 
-## Propuesta de Valor ## 🏆
+## Propuesta de Valor  🏆
 
 Para este punto ya utilizando las herramientas del análisis de heurísticas de la aplicación Müeve, así como un benchmark de la competencia que nos permitió verificar que están ofreciendo en sus aplicaciones y que se podría implementar.
 Decidimos utilizar la herramienta de value proposition canvas para fijar qué es lo que se tenía que corregir de diseño en la aplicación.
@@ -324,14 +321,14 @@ Decidimos utilizar la herramienta de value proposition canvas para fijar qué es
 
 
 
-## Construido con ## 🏗
+## Construido con  🏗
 
 Para este proyecto se utilizarón las siguientes herramientas:
 
 
 - Figma
 - Miro
-- flat design
+- Flat design
 - HTML
 
 
