@@ -41,7 +41,7 @@ La app necesita ser mas atractiva e intuitiva.
 
 ### Benchmark ###
 
-![benchmark]()
+- ![benchmark](./images/board.png)
 
 
 
@@ -172,10 +172,10 @@ Las características más buscadas en las aplicaciones que ya están en funciona
 
 ### Historias de usuario ###
 
-Yo como usuario, quiero loguearme con mi correo y contraseña.
-Yo como usuario, quiero tener acceso a puntos de recarga.
-Yo como usuario, quiero poder configurar mi método de pago.
-Yo como usuario, quiero tener acceso al histórico de mis consumos.
+* Yo como usuario, quiero loguearme con mi correo y contraseña.
+* Yo como usuario, quiero tener acceso a puntos de recarga.
+* Yo como usuario, quiero poder configurar mi método de pago.
+* Yo como usuario, quiero tener acceso al histórico de mis consumos.
 
 ### Análisis de Heurísticas ###
 
@@ -225,16 +225,16 @@ Yo como usuario, quiero tener acceso al histórico de mis consumos.
 
 
 Observaciones en la app Müeve:
--No se logra un login correcto.
--No es intuitiva debido a que algunos botones no tienen consistencia dentro de la app.
--Tiene errores técnicos, ya que se cierra cuando se intenta regresar al menú o a la actividad anterior.
--No muestra el proceso de la información mientras se está cargando.
--Los íconos no tienen consistencia.
--La tipografía y los estándares establecidos no tienen consistencia.
--El logo no tiene el formato correcto puesto que se distorsiona al iniciar la app.
--El usuario no puede regresar por falta de íconos de error o el regreso no funciona.
--No hay facilidad para desplazarse.
--No tiene un punto de ayuda o chat de comunicación para  auxiliar al usuario.
+* No se logra un login correcto.
+* No es intuitiva debido a que algunos botones no tienen consistencia dentro de la app.
+* Tiene errores técnicos, ya que se cierra cuando se intenta regresar al menú o a la actividad anterior.
+* No muestra el proceso de la información mientras se está cargando.
+* Los íconos no tienen consistencia.
+* La tipografía y los estándares establecidos no tienen consistencia.
+* El logo no tiene el formato correcto puesto que se distorsiona al iniciar la app.
+* El usuario no puede regresar por falta de íconos de error o el regreso no funciona.
+* No hay facilidad para desplazarse.
+* No tiene un punto de ayuda o chat de comunicación para  auxiliar al usuario.
 
 
 ## Etapa de descubrimiento ##
@@ -249,10 +249,21 @@ Datos de la Asociación Mexicana de la Industria Automotriz (AMIA) indica que en
 Los Estados con mayor venta de vehículos híbridos y eléctricos son Ciudad de México con el 44.6%, Estado de México con 13.4%, Jalisco con 7.2%, Nuevo León con 6.1% y Michoacán con 2.9%.
 
 
+                     Estadísticas a 18-07-2019
+
+
+                     
+- ![benchmark](./images/estadistica.png)
+
+
+
+
 ## User Person ##
 
 Para nuestra User Person utilizamos el método de shadowing en redes sociales, que nos permitió conocer en poco tiempo, a los dueños de autos eléctricos que fomentan el uso de ellos. Realizamos una encuesta que hicimos llegar a un club de Fans de Autos Eléctricos, sin embargo la falta de tiempo no permitió que ellos nos dieran alguna respuesta favorable. Por lo que optamos por encontrar un perfil con respecto a los distintos perfiles que localizamos de personas que tienen autos eléctricos buscando un patrón de ellos. Por lo regular son personas que tienen familia, y ven a futuro por el bienestar de ellos.
 
+
+- ![benchmark](./images/user.png)
 
 
 ## Storyboard ##
@@ -263,6 +274,12 @@ Allan sale de su hogar y aborda junto con su esposa un Taxari vehículo Italiano
 Video:
 https://www.facebook.com/franciscomcabeza/videos/vb.713948332/10156341035933333/?type=2&video_source=user_video_tab
 
+
+
+- ![benchmark](./images/story1.png)
+
+
+- ![benchmark](./images/story2.png)
 
 
 ## Propuesta de Valor ##
