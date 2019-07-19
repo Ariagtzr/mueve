@@ -1,4 +1,4 @@
-# M Ü E V E #
+# M Ü E V E ⚡🔋
 
 ## Índice
 
@@ -9,27 +9,29 @@
 - [Benchmark](#benchmark)
 - [User Personas](#user-personas)
 - [Storyboard](#storyboard)
-- [Etapa de ideación](#etapa-de-ideación)
 - [Propuesta de valor](#propuesta)
 - [Prototipado](#prototipado)
 - [Testing](#testing)
 - [Propuesta](#propuesta)
+- [Construido con](#construido-con)
 
-## Descripción
+## Descripción 📲
 
-Müeve es una aplicación móvil con la cual los usuarios de automóviles electrónicos podrán encontrar las estaciones de carga más cercanas desocupadas, iniciar la carga por medio de un código QR, pagar el servicio y tener un historial de consumo. 
+Müeve es una **aplicación móvil** con la cual los usuarios de automóviles electrónicos podrán **encontrar las estaciones de carga más cercanas desocupadas**, iniciar la carga por medio de un código QR, pagar el servicio y tener un historial de consumo. 
 
 Esta aplicación fue desarrollada por Au haus y Engine Factory, quienes buscan crear la red de carga inteligente más grande y eficiente en México. 
 
-El reto de nuestro equipo, comprendido por Viviana Navarro, Ariadna Gutiérrez, Elizabeth Ramírez y Karen Amicone, consiste en mejorar el diseño UX y UI de Müeve.
+El reto de nuestro equipo, comprendido por Viviana Navarro, Ariadna Gutiérrez, Elizabeth Ramírez y Karen Amicone, consiste en **mejorar el diseño UX y UI** de Müeve.
 
-## Objetivos
+## Objetivos 📌
 
-El objetivo de este reto será el rediseño UX y UI de una aplicación móvil enfocada al usuario final, implementando las mejoras en su experiencia. Deberá ser visualmente atractiva y sencilla de utilizar.
+El objetivo de este reto será el **rediseño UX y UI de una aplicación móvil** enfocada al usuario final, implementando las mejoras en su experiencia. Deberá ser visualmente atractiva y sencilla de utilizar.
 
 La app necesita ser mas atractiva e intuitiva.
 
 Los objetivos particulares de la empresa son: 
+
+
 
 
 1. Experiencia de la interfaz sencilla y agradable.
@@ -44,30 +46,31 @@ Los objetivos particulares de la empresa son:
 10. Estimación de tiempo.
 11. Saber si la estación es gratuita o de cobro.
 
-## Benchmark
+## Benchmark 📊
 
-![benchmark](https://drive.google.com/file/d/1LQG3vu5wJkO3istja8r0AiALlRe59s95/)
+- ![benchmark](./images/board.png)
 
-### Ecocarga
+
+### Ecocarga 🌳🔋
 
  En la aplicación cualquier usuario puede visualizar en un mapa las estaciones disponibles en Chile. El usuario puede, si así lo desea, ingresar la marca y modelo de su vehículo eléctrico para filtrar las estaciones que son compatibles con su vehículo. Además puede hacer una estimación del tiempo de carga en las distintas estaciones que se despliegan en el plano.
  
-**Pros:**
+**Pros:** 👍
 - Muestra sólo aquellas estaciones que son compatibles con el vehículo.
 - Estima el tiempo de carga en las distintas estaciones que se despliegan en el plano.
 - El usuario ingresa datos de su auto sólo si así lo desea.
 
-**Contras:**
+**Contras:** 👎
 - Mal referenciada en el mapa.
 - No hay instrucciones de cómo cargar.
 - No permite calcular el tiempo de carga de motocicletas y monopatines.
 - No incluye todas las marcas de híbridos.
 
-### eCharge 
+### eCharge ✅
 
 Muestra la estación de carga disponible más cercana. Usa una gran red de estaciones de carga pública en continua expansión. La carga es rápida y fácil. Además es posible pagar con diferentes métodos de pago como PayPal, tarjeta de crédito, el contrato de electricidad o un cupón.
 
-**Pros:**
+**Pros:** 
 - Encuentra las estaciones de carga en el área o cerca de una dirección específica.
 - Filtra el mapa general según la estación de carga correspondiente.
 - Permite consultar la disponibilidad de puntos de recarga en tiempo real.
@@ -200,16 +203,16 @@ Las características más buscadas en las aplicaciones que ya están en funciona
 
 
 
-## Historias de usuario
+## Historias de usuario 🧙‍♂
 
-Yo como usuario, quiero loguearme con mi correo y contraseña.
-Yo como usuario, quiero tener acceso a puntos de recarga.
-Yo como usuario, quiero poder configurar mi método de pago.
-Yo como usuario, quiero tener acceso al histórico de mis consumos.
+* Yo como usuario, quiero loguearme con mi correo y contraseña.
+* Yo como usuario, quiero tener acceso a puntos de recarga.
+* Yo como usuario, quiero poder configurar mi método de pago.
+* Yo como usuario, quiero tener acceso al histórico de mis consumos.
 
-## Análisis de Heurísticas
+## Análisis de Heurísticas 🕵‍♂
 
-**Checklist** 
+**Checklist**  ☑
 - [ ] Visibilidad del Estado del Sistema: 
 * Muestra barras de proceso de información, 
 * Muestran mensajes de confirmación que indican que la tarea se ha finalizado con éxito.
@@ -255,23 +258,20 @@ Yo como usuario, quiero tener acceso al histórico de mis consumos.
 
 
 Observaciones en la app Müeve:
-- No se logra un login correcto.
-- No es intuitiva debido a que algunos botones no tienen consistencia dentro de la app.
-- Tiene errores técnicos, ya que se cierra cuando se intenta regresar al menú o a la actividad anterior.
-- No muestra el proceso de la información mientras se está cargando.
-- Los íconos no tienen consistencia.
-- La tipografía y los estándares establecidos no tienen consistencia.
-- El logo no tiene el formato correcto puesto que se distorsiona al iniciar la app.
-- El usuario no puede regresar por falta de íconos de error o el regreso no funciona.
-- No hay facilidad para desplazarse.
-- No tiene un punto de ayuda o chat de comunicación para  auxiliar al usuario.
+
+* No se logra un login correcto.
+* No es intuitiva debido a que algunos botones no tienen consistencia dentro de la app.
+* Tiene errores técnicos, ya que se cierra cuando se intenta regresar al menú o a la actividad anterior.
+* No muestra el proceso de la información mientras se está cargando.
+* Los íconos no tienen consistencia.
+* La tipografía y los estándares establecidos no tienen consistencia.
+* El logo no tiene el formato correcto puesto que se distorsiona al iniciar la app.
+* El usuario no puede regresar por falta de íconos de error o el regreso no funciona.
+* No hay facilidad para desplazarse.
+* No tiene un punto de ayuda o chat de comunicación para  auxiliar al usuario.
 
 
-## Etapa de descubrimiento ##
-
-
-
-### Contexto ###
+### Contexto 📋
 
 
 México cuenta con 900 estaciones de carga para vehículos eléctricos.
@@ -279,29 +279,56 @@ Datos de la Asociación Mexicana de la Industria Automotriz (AMIA) indica que en
 Los Estados con mayor venta de vehículos híbridos y eléctricos son Ciudad de México con el 44.6%, Estado de México con 13.4%, Jalisco con 7.2%, Nuevo León con 6.1% y Michoacán con 2.9%.
 
 
-## User Person ##
-
-Para nuestra User Person utilizamos el método de shadowing en redes sociales, que nos permitió conocer en poco tiempo, a los dueños de autos eléctricos que fomentan el uso de ellos. Realizamos una encuesta que hicimos llegar a un club de Fans de Autos Eléctricos, sin embargo la falta de tiempo no permitió que ellos nos dieran alguna respuesta favorable. Por lo que optamos por encontrar un perfil con respecto a los distintos perfiles que localizamos de personas que tienen autos eléctricos buscando un patrón de ellos. Por lo regular son personas que tienen familia, y ven a futuro por el bienestar de ellos.
+                     Estadísticas a 18-07-2019
 
 
+                     
+![benchmark](./images/estadistica.png)
 
-## Storyboard ##
+
+
+
+## User Persona 💁‍
+
+Para nuestra User Persona utilizamos el método de shadowing en redes sociales, que nos permitió conocer en poco tiempo a los dueños de autos eléctricos que fomentan el uso de los mismos. Realizamos una encuesta que hicimos llegar a un club de Fans de Autos Eléctricos, sin embargo, la falta de tiempo no permitió que ellos nos dieran alguna respuesta favorable. Por lo que optamos por encontrar un perfil con respecto a los distintos perfiles que localizamos de personas que tienen autos eléctricos buscando un patrón de ellos. Por lo regular son personas que tienen familia y ven a futuro por el bienestar de ellos.
+
+
+![benchmark](./images/user.png)
+
+
+## Storyboard  📚
+
 Historia de nuestro usuario documentada en video:
 
-Allan sale de su hogar y aborda junto con su esposa un Taxari vehículo Italiano 100% eléctrico, empieza a narrar cómo se utilizan este tipo de vehículos nos comenta que el precio del auto es de $669,000 MXN,narra el recorrido que tiene que efectuar en las mañanas  con su auto eléctrico , su esposa cometa de que un detalle con los autos eléctricos es que la cuestión de la carga es delicada debido a que puedes quedarte sin carga y es un problemática nuevamente por la falta de infraestructua, también menciona que la carga del vehículo se da con una corriente 220 y rinde hasta 150 Km con una carga de entre 9 y 10 horas. 
+Allan sale de su hogar y aborda junto con su esposa un Taxari vehículo italiano 100% eléctrico, empieza a narrar cómo se utilizan este tipo de vehículos nos comenta que el precio del auto es de $669,000 MXN. Narra el recorrido que tiene que efectuar en las mañanas con su auto eléctrico. Su esposa comenta que un detalle de los autos eléctricos es que la cuestión de la carga es delicada debido a que puedes quedarte sin energía y es una problemática por la falta de infraestructua. También menciona que la carga del vehículo se da con una corriente 220 y rinde hasta 150 Km con una carga de entre 9 y 10 horas. 
 
 Video:
 https://www.facebook.com/franciscomcabeza/videos/vb.713948332/10156341035933333/?type=2&video_source=user_video_tab
 
-## Propuesta de Valor ##
+## Propuesta de Valor  🏆
 
-Para este punto ya utilizando las herramientas del análisis de heurísticas de la aplicación Müeve, así como un benchmark de la competencia que nos permitió verificar que están ofreciendo en sus aplicaciones y que se podría implementar, este segmento de México, de enero a octubre del 2018 se han vendido en México 13,925 unidades híbridas o eléctricas, en el mismo periodo del año pasado las unidades comercializadas ascendían a 8,288 unidades, lo que representa un crecimiento de 68 por ciento. Por lo que es una gran oportunidad de negocio que pretende que desde la app se puedan realizar estos cobros, así como sincronizar toda la información que se tiene desde los puntos de recarga, a través de API’S.
-
-Decidimos utilizar la herramienta de value proposition canvas para fijar qué es lo que se tenía que corregir de diseño en la aplicación.
-
+Para este punto, utilizando las herramientas del análisis de heurísticas de la aplicación Müeve, así como un benchmark de la competencia, nos permitieron verificar qué están ofreciendo en sus aplicaciones y qué se podría implementar.
+Decidimos utilizar la herramienta de *value proposition canvas* para fijar qué es lo que se tenía que corregir de diseño en la aplicación.
 
 
 
-## Propuesta de Valor ##
 
-Para este punto ya utilizando las herramientas del análisis de heurísticas de la aplicación Müeve, así como un benchmark de la competencia que nos permitió verificar que están ofreciendo en sus aplicaciones y que se podría implementar, este segmento de México, de enero a octubre del 2018 se han vendido...
+![benchmark](./images/story1.png)
+
+
+![benchmark](./images/story2.png)
+
+
+
+
+## Construido con  🏗
+
+Para este proyecto se utilizarón las siguientes herramientas:
+
+
+- Figma
+- Miro
+- Flat design
+- HTML
+
+
