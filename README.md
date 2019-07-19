@@ -15,161 +15,186 @@
 - [Testing](#testing)
 - [Propuesta](#propuesta)
 
-# Resumen del Proyecto #
+## Descripción
 
-El proyecto “Müeve” se crea por el reto de la empresa Au haus  es una empresa mexicana que busca crear la red de carga inteligente más grande y eficiente en México.Ofrece una gama de servicios que incluyen la consultoría, venta e instalación de infraestructura y provee una plataforma móvil que permite la gestión de las cargas de forma sencilla y centralizada. El reto consiste en crear una app móvil para los usuarios de coches eléctricos que les permita ver donde hay estaciones cercanas desocupadas, y le permita generar su pago desde esta app.
+Müeve es una aplicación móvil con la cual los usuarios de automóviles electrónicos podrán encontrar las estaciones de carga más cercanas desocupadas, iniciar la carga por medio de un código QR, pagar el servicio y tener un historial de consumo. 
 
-## Objetivos ##
+Esta aplicación fue desarrollada por Au haus y Engine Factory, quienes buscan crear la red de carga inteligente más grande y eficiente en México. 
 
-El objetivo de este reto será el rediseño una aplicación móvil enfocada al usuario final, implementando las mejoras en su experiencia. Deberá ser visualmente atractiva y sencilla de utilizar.
+El reto de nuestro equipo, comprendido por Viviana Navarro, Ariadna Gutiérrez, Elizabeth Ramírez y Karen Amicone, consiste en mejorar el diseño UX y UI de Müeve.
 
-Experiencia de la interfaz sencilla y agradable
-Plantear un ecosistema de carga para formar una app
-Conocer puntos de carga (Mapa)
-Estándares de cargador
-Potencia ¿Qué tan rápido puedes cargar tu carro?
-Interacción de carga (Dashboard)
-Apartar cargador. (Engagement ) por cantidad.
-Puedan añadir puntos de carga que no estén en el mapa
-Generar ruta y mapearla 
-Estimación de Tiempo
-Saber si la estación es gratuita o de cobro.
+## Objetivos
 
-## Problema ##
+El objetivo de este reto será el rediseño UX y UI de una aplicación móvil enfocada al usuario final, implementando las mejoras en su experiencia. Deberá ser visualmente atractiva y sencilla de utilizar.
 
-El problema al cual nos queremos enfocar es que hoy en día en México ya cuenta con 900 centros de carga para vehículos eléctricos, reveló el director general de la Comisión Federal de Energía (CFE), Jaime Hernández. Es decir, la infraestructura en México es escasa, actualmente en la Ciudad de México son más de 125 los puntos de carga.
+Los objetivos particulares de la empresa son: 
 
-### Benchmark ###
+1. Experiencia de la interfaz sencilla y agradable.
+2. Plantear un ecosistema de carga para formar una app.
+3. Conocer puntos de carga (Mapa).
+4. Estándares de cargador.
+5. Potencia. ¿Qué tan rápido puedes cargar tu carro?
+6. Interacción de carga (Dashboard).
+7. Apartar cargador. (Engagement) por cantidad.
+8. Puedan añadir puntos de carga que no estén en el mapa.
+9. Generar ruta y mapearla. 
+10. Estimación de tiempo.
+11. Saber si la estación es gratuita o de cobro.
 
-![benchmark]()
+## Benchmark
 
+![benchmark](https://drive.google.com/file/d/1LQG3vu5wJkO3istja8r0AiALlRe59s95/)
 
+### Ecocarga
 
--Ecocarga: En la aplicación, cualquier usuario puede visualizar en un plano, las electrolineras disponibles en Chile. A medida que aumente la red, esta aplicación incluirá más electrolineras. Un usuario puede, si así lo desea, ingresar la marca y modelo de su vehículo eléctrico, de esta manera la aplicación, le mostrará sólo aquellas electrolineras que son compatibles con su vehículo y podrá hacer una estimación del tiempo de carga en las distintas electrolineras que se despliegan en el plano.
-Pros:
--Mostrará sólo aquellas electrolineras que son compatibles con su vehículo
--Estimación del tiempo de carga en las distintas electrolineras que se despliegan en el plano.
-- Sólo ingresas datos de tu auto si así lo deseas
-Contras:
--Mal referenciada en mapa
--Información completa como instrucciones de cómo cargar
--Calcular motocicletas y monopatines tiempo de carga.
--No incluye todas las marcas de hibridos.
-
-eCharge: Encuentre la estación de carga disponible más cercana para su vehículo eléctrico con la aplicación eCharge +. Usa un gran Red de estaciones de carga pública en continua expansión. Comience la carga rápida y fácil con su métodos de pago preferidos, como PayPal, tarjeta de crédito, su contrato personal de electricidad o un cupón.
-
-Pros:
-- Encuentre estaciones de carga en su área o cerca de una dirección específica.
-- Filtre su mapa general según su estación de carga correspondiente.
-- Consultar disponibilidad de puntos de recarga en tiempo real.
-- Agregue su método de pago una vez y comience a cobrar aún más rápido en el futuro.
-- Pague a través de PayPal, tarjeta de crédito, su contrato de electricidad o un cupón directamente a través de su aplicación eCharge.
-- Supervise su sesión de carga activa y siga su progreso de carga.
-- Guarde sus estaciones de carga de uso habitual como favoritos.
-- Revise sus sesiones de carga anteriores y los costos en cualquier momento
-- Obtenga más información sobre su contribución al medio ambiente utilizando un vehículo eléctrico.
-- Informe un problema con su estación de carga directamente a través de la aplicación eCharge + o use la línea directa de la estación de carga correspondiente.
-
-Contras:
-
--Recopila datos personales
--Muchos pasos
-
-Nextcharge
-
-Mapa de puntos de recarga para vehiculos electricos.
-Búsqueda de 200,000 puntos de recarga en todo el mundo para vehículos eléctricos.
-
-
-Pros: 
--el usuario puede actualizar los puntos de carga
-
-Contras:
-- información poco fiable
-- faltan puntos de carga
-
-
-Electromaps
-Electromaps te permite encontrar todos los puntos de recarga para vehículos eléctricos disponibles para el uso público. 
-Permite consultar su estado a tiempo real, activar la recarga y realizar el pago. 
-Consulta los detalles de cada punto de recarga, como la dirección, el precio de recarga, el precio del parking, etc...
-Consulta los comentarios que hayan dejado los usuarios.
-Ahora también puedes ver las fotos asociadas a cada punto de recarga.
-Abre directamente el mapa para guiarte a un punto si lo deseas.
+ En la aplicación cualquier usuario puede visualizar en un mapa las estaciones disponibles en Chile. El usuario puede, si así lo desea, ingresar la marca y modelo de su vehículo eléctrico para filtrar las estaciones que son compatibles con su vehículo. Además puede hacer una estimación del tiempo de carga en las distintas estaciones que se despliegan en el plano.
  
-Pros:
-Saber si están en funcionamiento o no e incluso la potencia del punto
-Verificar telefónicamente la disponibilidad y el funcionamiento
-Es muy necesaria para quienes tienen vehiculo electrico
+**Pros:**
+- Muestra sólo aquellas estaciones que son compatibles con el vehículo.
+- Estima el tiempo de carga en las distintas estaciones que se despliegan en el plano.
+- El usuario ingresa datos de su auto sólo si así lo desea.
 
-Contras
-Que hay puntos que no funcionan.
-No están actualizados todos los puntos.
-No es una aplicación muy intuitiva
+**Contras:**
+- Mal referenciada en el mapa.
+- No hay instrucciones de cómo cargar.
+- No permite calcular el tiempo de carga de motocicletas y monopatines.
+- No incluye todas las marcas de híbridos.
 
-Google Maps
-Navega por el mundo de manera más fácil y rápida con Google Maps. Hay mapas de más de 220 países y territorios con millones de empresas y lugares señalados. Consigue información sobre el tráfico y el transporte público. 
+### eCharge 
 
-Pros:
-- Ahorra tiempo con la modificación automática de la ruta según el tráfico, los incidentes y las carreteras cortadas.
--Mapas sin conexión para buscar y navegar cuando te quedes sin conexión a Internet.
+Muestra la estación de carga disponible más cercana. Usa una gran red de estaciones de carga pública en continua expansión. La carga es rápida y fácil. Además es posible pagar con diferentes métodos de pago como PayPal, tarjeta de crédito, el contrato de electricidad o un cupón.
 
-Contras:
--No deja personalizar el volumen o el tipo de aviso. 
--Se ha vuelto muy lenta y a la hora de escribir direcciones se queda pegada a ratos y termina desordenando las letras que he escrito. 
-- Además se va la conexión y lo tengo al revés. 
+**Pros:**
+- Encuentra las estaciones de carga en el área o cerca de una dirección específica.
+- Filtra el mapa general según la estación de carga correspondiente.
+- Permite consultar la disponibilidad de puntos de recarga en tiempo real.
+- Agrega el método de pago una vez lo utiliza siempre.
+- Varios métodos de pago.
+- Supervisa la sesión de carga activa y sigue el progreso de carga.
+- Guarda las estaciones de carga de uso habitual como favoritos.
+- Revisa las sesiones de carga anteriores y los costos en cualquier momento.
+- Proporciona información sobre la contribución al medio ambiente por el uso de autos eléctricos.
+- Informa sobre problemas con las estaciones de carga.
 
-Waze
-Conoce siempre lo que sucede en la carretera con Waze. Incluso si sabes el camino, Waze te informa sobre tráfico, obras, policia, accidentes y mucho más en tiempo real. Si el tráfico es malo en tu ruta, Waze la cambiará para ahorrarte tiempo. 
+**Contras:**
 
-Pros:
--Mira lo que sucede - Avisos de tráfico, policía, peligros y mucho más en tu ruta.
--Llega más rápido - cambios de ruta instantáneos para evitar tráfico y ahorrarte tiempo
-- Waze Audio Player - escucha música, podcasts y más, todo con Waze.
-- Conoce cuándo llegarás - tú ETA se basa en datos de tráfico real 
-- Paga menos por el combustible - encuentra la gasolinera más barata en tu ruta
-- Conduce con Android Auto - usa Waze en la pantalla de tu coche
-- Encuentra siempre el camino - elige entre varias voces para guiarte mientras conduces 
+- Recopila datos personales.
+- Muchos pasos.
 
-Contras:
--Han desaparecido un radar que hasta hace poco aparecía, menos mal que conozco donde se encuentra. 
--El navegador bien, le falta mejorar las rutas sugeridas, además es engorroso realizar una búsqueda de estacionamiento cuándo uno esta próximo a su destino, creo que debería sugerirlo automáticamente.
+### Nextcharge
 
-Edrive
+Muestra un mapa con más de 200,000 puntos de recarga para vehículos eléctricos en todo el mundo.
+
+**Pros:** 
+- El usuario puede actualizar los puntos de carga.
+
+**Contras:**
+- Información poco fiable.
+- Faltan puntos de carga.
+
+
+### Electromaps
+
+Electromaps permite encontrar todos los puntos de recarga para vehículos eléctricos disponibles para el uso público. 
+ 
+**Pros:**
+
+- Muestra las estaciones de carga en funcionamiento e incluso la potencia del cargador.
+
+- Activa la recarga y realiza el pago. 
+
+- Consulta los detalles de cada punto de recarga.
+
+- Consulta los comentarios que han dejado los usuarios.
+
+- Muestra las fotos asociadas a cada punto de recarga.
+
+- Abre directamente el mapa para guiar al usuario a un punto si así lo desea.
+
+- Permite verificar telefónicamente la disponibilidad y el funcionamiento.
+
+
+**Contras:**
+
+- Hay puntos que no funcionan.
+- No están actualizados todos los puntos.
+- La aplicación es poco intuitiva.
+
+### Google Maps
+
+Es fácil de usar y rápida en la navegación. Hay mapas de más de 220 países y territorios con millones de empresas y lugares señalados.
+
+**Pros:**
+- Ahorra tiempo con la modificación automática de la ruta según la información del tráfico y otras variables.
+
+- Mapas sin conexión para buscar y navegar cuando no hay conexión a internet.
+
+**Contras:** 
+
+- No es posible personalizar el volumen del audio o el tipo de aviso. 
+
+- Algunos usuarios han reportado que se pierde la conexión. 
+
+### Waze
+
+Waze es una aplicación que proporciona datos sobre el tráfico, obras, accidentes, etc., y dibuja la mejor ruta de un punto a otro actualizándolas en tiempo real con base en el tráfico y otros inconvenientes. 
+
+**Pros:**
+ 
+- Avisos de tráfico, policía, peligros y mucho más en la ruta.
+
+- Permite llegar más rápido. 
+
+- Cambios de ruta instantáneos para evitar tráfico y ahorrar tiempo.
+
+- Pagar menos por el combustible. 
+
+- Encuentra la gasolinera más barata en la ruta.
+
+- Eliger entre varias voces para guiar mientras el usuario conduce. 
+
+**Contras:**
+
+- Han desaparecido un radar que hasta hace poco aparecía, menos mal que conozco donde se encuentra.
+
+- El navegador bien, le falta mejorar las rutas sugeridas, además es engorroso realizar una búsqueda de estacionamiento cuándo uno esta próximo a su destino, creo que debería sugerirlo automáticamente.
+
+### Edrive
 Esta aplicación es un nuevo paso hacia el desarrollo de una mejor relación entre los clientes y las tecnologías de edrive. El equipo de edrive technologies cree que la nueva era de la tecnología solo se puede cumplir al proporcionar y satisfacer las necesidades diarias del cliente proporcionándole nuevas tecnologías. 
 
-Pros:
--Facilidad de uso y navegación
--Seguimiento en tiempo real. 
--Diferentes tipos de MAP. 
--Dirección del vehículo. 
--Color sobre la base del estado del vehículo. 
--Notificaciones en vivo. 
--Informes . 
--Ubicación histórica 
+**Pros:**
 
-Contras:
+- Facilidad de uso y navegación.
+- Seguimiento en tiempo real. 
+- Diferentes tipos de MAP. 
+- Dirección del vehículo. 
+- Color sobre la base del estado del vehículo. 
+- Notificaciones en vivo. 
+- Informes. 
+- Ubicación histórica. 
+
+**Contras:**
 - Lugar incorrecto?
--No puedes ingresar no hay lugar donde registrarse primero.
+- No puedes ingresar no hay lugar donde registrarse primero.
 
 Las características más buscadas en las aplicaciones que ya están en funcionamiento son las siguientes:
 
--Buscador de estaciones de carga eléctrica en tiempo real
--Estaciones de recarga disponibles, Ocupados,etc.
--Detalles de  la estación como precio por minuto de carga, potencia y tipo de conector
--Filtrar por tipo de conector.
--Supervisar progreso y estatus de recargas.
--Informar en tiempo real problemas de los puntos de recarga.
--Imágenes, dirección, estatus, precio, del punto de recarga.
--Mapear la ruta a la estación de carga
--Método de pago guardado
--Activar la recarga
--Mostrar las operaciones e histórico de estas
--Personalización del vehículo
+- Buscador de estaciones de carga eléctrica en tiempo real
+- Estaciones de recarga disponibles, Ocupados,etc.
+- Detalles de  la estación como precio por minuto de carga, potencia y tipo de conector
+- Filtrar por tipo de conector.
+- Supervisar progreso y estatus de recargas.
+- Informar en tiempo real problemas de los puntos de recarga.
+- Imágenes, dirección, estatus, precio, del punto de recarga.
+- Mapear la ruta a la estación de carga
+- Método de pago guardado
+- Activar la recarga
+- Mostrar las operaciones e histórico de estas
+- Personalización del vehículo
 
 
 
-### Historias de usuario ###
+## Historias de usuario
 
 Yo como usuario, quiero loguearme con mi correo y contraseña.
 Yo como usuario, quiero tener acceso a puntos de recarga.
@@ -177,9 +202,9 @@ Yo como usuario, quiero iniciar mi carga
 Yo como usuario, quiero poder configurar mi método de pago.
 Yo como usuario, quiero tener acceso al histórico de mis consumos.
 
-### Análisis de Heurísticas ###
+## Análisis de Heurísticas
 
-**Checklist** de App MÜEVE
+**Checklist** 
 - [ ] Visibilidad del Estado del Sistema: 
 * Muestra barras de proceso de información, 
 * Muestran mensajes de confirmación que indican que la tarea se ha finalizado con éxito.
@@ -225,16 +250,16 @@ Yo como usuario, quiero tener acceso al histórico de mis consumos.
 
 
 Observaciones en la app Müeve:
--No se logra un login correcto.
--No es intuitiva debido a que algunos botones no tienen consistencia dentro de la app.
--Tiene errores técnicos, ya que se cierra cuando se intenta regresar al menú o a la actividad anterior.
--No muestra el proceso de la información mientras se está cargando.
--Los íconos no tienen consistencia.
--La tipografía y los estándares establecidos no tienen consistencia.
--El logo no tiene el formato correcto puesto que se distorsiona al iniciar la app.
--El usuario no puede regresar por falta de íconos de error o el regreso no funciona.
--No hay facilidad para desplazarse.
--No tiene un punto de ayuda o chat de comunicación para  auxiliar al usuario.
+- No se logra un login correcto.
+- No es intuitiva debido a que algunos botones no tienen consistencia dentro de la app.
+- Tiene errores técnicos, ya que se cierra cuando se intenta regresar al menú o a la actividad anterior.
+- No muestra el proceso de la información mientras se está cargando.
+- Los íconos no tienen consistencia.
+- La tipografía y los estándares establecidos no tienen consistencia.
+- El logo no tiene el formato correcto puesto que se distorsiona al iniciar la app.
+- El usuario no puede regresar por falta de íconos de error o el regreso no funciona.
+- No hay facilidad para desplazarse.
+- No tiene un punto de ayuda o chat de comunicación para  auxiliar al usuario.
 
 
 ## Etapa de descubrimiento ##
@@ -314,6 +339,13 @@ Allan sale de su hogar y aborda junto con su esposa un Taxari vehículo Italiano
 
 Video:
 https://www.facebook.com/franciscomcabeza/videos/vb.713948332/10156341035933333/?type=2&video_source=user_video_tab
+
+## Propuesta de Valor ##
+
+Para este punto ya utilizando las herramientas del análisis de heurísticas de la aplicación Müeve, así como un benchmark de la competencia que nos permitió verificar que están ofreciendo en sus aplicaciones y que se podría implementar, este segmento de México, de enero a octubre del 2018 se han vendido en México 13,925 unidades híbridas o eléctricas, en el mismo periodo del año pasado las unidades comercializadas ascendían a 8,288 unidades, lo que representa un crecimiento de 68 por ciento. Por lo que es una gran oportunidad de negocio que pretende que desde la app se puedan realizar estos cobros, así como sincronizar toda la información que se tiene desde los puntos de recarga, a través de API’S.
+
+Decidimos utilizar la herramienta de value proposition canvas para fijar qué es lo que se tenía que corregir de diseño en la aplicación.
+
 
 
 
