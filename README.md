@@ -267,4 +267,4 @@ https://www.facebook.com/franciscomcabeza/videos/vb.713948332/10156341035933333/
 
 ## Propuesta de Valor ##
 
-Para este punto ya utilizando las herramientas del análisis de heurísticas de la aplicación Müeve, así como un benchmark de la competencia que nos permitió verificar que están ofreciendo en sus aplicaciones y que se podría implementar, este segmento de México, de enero a octubre del 2018 se han vendido en México 13,925 unidades híbridas o eléctricas, en el mismo periodo del año pasado las unidades comercializadas ascendían a 8,288 unidades, lo que representa un crecimiento de 68 por ciento. Por lo que es una gran oportunidad de negocio que pretende que desde la app se puedan realizar estos cobros, así como sincronizar toda la información que se tiene desde los puntos de recarga.
+Para este punto ya utilizando las herramientas del análisis de heurísticas de la aplicación Müeve, así como un benchmark de la competencia que nos permitió verificar que están ofreciendo en sus aplicaciones y que se podría implementar, este segmento de México, de enero a octubre del 2018 se han vendido...
