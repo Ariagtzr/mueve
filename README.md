@@ -283,7 +283,7 @@ Los Estados con mayor venta de vehículos híbridos y eléctricos son Ciudad de 
 
 
                      
-![benchmark](./images/estadistica.png)
+- ![benchmark](./images/estadistica.png)
 
 
 
@@ -293,7 +293,7 @@ Los Estados con mayor venta de vehículos híbridos y eléctricos son Ciudad de 
 Para nuestra User Persona utilizamos el método de shadowing en redes sociales, que nos permitió conocer en poco tiempo a los dueños de autos eléctricos que fomentan el uso de los mismos. Realizamos una encuesta que hicimos llegar a un club de Fans de Autos Eléctricos, sin embargo, la falta de tiempo no permitió que ellos nos dieran alguna respuesta favorable. Por lo que optamos por encontrar un perfil con respecto a los distintos perfiles que localizamos de personas que tienen autos eléctricos buscando un patrón de ellos. Por lo regular son personas que tienen familia y ven a futuro por el bienestar de ellos.
 
 
-![benchmark](./images/user.png)
+- ![benchmark](./images/user.png)
 
 
 ## Storyboard  📚
@@ -313,10 +313,10 @@ Decidimos utilizar la herramienta de *value proposition canvas* para fijar qué 
 
 
 
-![benchmark](./images/story1.png)
+- ![benchmark](./images/story1.png)
 
 
-![benchmark](./images/story2.png)
+- ![benchmark](./images/story2.png)
 
 
 
