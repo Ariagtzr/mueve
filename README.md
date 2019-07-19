@@ -15,7 +15,7 @@
 - [Testing](#testing)
 - [Propuesta](#propuesta)
 
-## Resumen del Proyecto
+## Descripción
 
 Müeve es una aplicación móvil con la cual los usuarios de automóviles electrónicos podrán encontrar las estaciones de carga más cercanas desocupadas, iniciar la carga por medio de un código QR, pagar el servicio y tener un historial de consumo. 
 
@@ -137,57 +137,64 @@ Es fácil de usar y rápida en la navegación. Hay mapas de más de 220 países 
 
 ### Waze
 
-Waze es una aplicación que proporciona datos sobre el tráfico, obras, accidentes, etc. Muestra rutas y 
-Conoce siempre lo que sucede en la carretera con Waze. Incluso si sabes el camino, Waze te informa sobre tráfico, obras, policia, accidentes y mucho más en tiempo real. Si el tráfico es malo en tu ruta, Waze la cambiará para ahorrarte tiempo. 
+Waze es una aplicación que proporciona datos sobre el tráfico, obras, accidentes, etc., y dibuja la mejor ruta de un punto a otro actualizándolas en tiempo real con base en el tráfico y otros inconvenientes. 
 
-Pros:
--Mira lo que sucede - Avisos de tráfico, policía, peligros y mucho más en tu ruta.
--Llega más rápido - cambios de ruta instantáneos para evitar tráfico y ahorrarte tiempo
-- Waze Audio Player - escucha música, podcasts y más, todo con Waze.
-- Conoce cuándo llegarás - tú ETA se basa en datos de tráfico real 
-- Paga menos por el combustible - encuentra la gasolinera más barata en tu ruta
-- Conduce con Android Auto - usa Waze en la pantalla de tu coche
-- Encuentra siempre el camino - elige entre varias voces para guiarte mientras conduces 
+**Pros:**
+ 
+- Avisos de tráfico, policía, peligros y mucho más en la ruta.
 
-Contras:
--Han desaparecido un radar que hasta hace poco aparecía, menos mal que conozco donde se encuentra. 
--El navegador bien, le falta mejorar las rutas sugeridas, además es engorroso realizar una búsqueda de estacionamiento cuándo uno esta próximo a su destino, creo que debería sugerirlo automáticamente.
+- Permite llegar más rápido. 
 
-Edrive
+- Cambios de ruta instantáneos para evitar tráfico y ahorrar tiempo.
+
+- Pagar menos por el combustible. 
+
+- Encuentra la gasolinera más barata en la ruta.
+
+- Eliger entre varias voces para guiar mientras el usuario conduce. 
+
+**Contras:**
+
+- Han desaparecido un radar que hasta hace poco aparecía, menos mal que conozco donde se encuentra.
+
+- El navegador bien, le falta mejorar las rutas sugeridas, además es engorroso realizar una búsqueda de estacionamiento cuándo uno esta próximo a su destino, creo que debería sugerirlo automáticamente.
+
+### Edrive
 Esta aplicación es un nuevo paso hacia el desarrollo de una mejor relación entre los clientes y las tecnologías de edrive. El equipo de edrive technologies cree que la nueva era de la tecnología solo se puede cumplir al proporcionar y satisfacer las necesidades diarias del cliente proporcionándole nuevas tecnologías. 
 
-Pros:
--Facilidad de uso y navegación
--Seguimiento en tiempo real. 
--Diferentes tipos de MAP. 
--Dirección del vehículo. 
--Color sobre la base del estado del vehículo. 
--Notificaciones en vivo. 
--Informes . 
--Ubicación histórica 
+**Pros:**
 
-Contras:
+- Facilidad de uso y navegación.
+- Seguimiento en tiempo real. 
+- Diferentes tipos de MAP. 
+- Dirección del vehículo. 
+- Color sobre la base del estado del vehículo. 
+- Notificaciones en vivo. 
+- Informes. 
+- Ubicación histórica. 
+
+**Contras:**
 - Lugar incorrecto?
--No puedes ingresar no hay lugar donde registrarse primero.
+- No puedes ingresar no hay lugar donde registrarse primero.
 
 Las características más buscadas en las aplicaciones que ya están en funcionamiento son las siguientes:
 
--Buscador de estaciones de carga eléctrica en tiempo real
--Estaciones de recarga disponibles, Ocupados,etc.
--Detalles de  la estación como precio por minuto de carga, potencia y tipo de conector
--Filtrar por tipo de conector.
--Supervisar progreso y estatus de recargas.
--Informar en tiempo real problemas de los puntos de recarga.
--Imágenes, dirección, estatus, precio, del punto de recarga.
--Mapear la ruta a la estación de carga
--Método de pago guardado
--Activar la recarga
--Mostrar las operaciones e histórico de estas
--Personalización del vehículo
+- Buscador de estaciones de carga eléctrica en tiempo real
+- Estaciones de recarga disponibles, Ocupados,etc.
+- Detalles de  la estación como precio por minuto de carga, potencia y tipo de conector
+- Filtrar por tipo de conector.
+- Supervisar progreso y estatus de recargas.
+- Informar en tiempo real problemas de los puntos de recarga.
+- Imágenes, dirección, estatus, precio, del punto de recarga.
+- Mapear la ruta a la estación de carga
+- Método de pago guardado
+- Activar la recarga
+- Mostrar las operaciones e histórico de estas
+- Personalización del vehículo
 
 
 
-### Historias de usuario ###
+## Historias de usuario
 
 Yo como usuario, quiero loguearme con mi correo y contraseña.
 Yo como usuario, quiero tener acceso a puntos de recarga.
@@ -195,9 +202,9 @@ Yo como usuario, quiero iniciar mi carga
 Yo como usuario, quiero poder configurar mi método de pago.
 Yo como usuario, quiero tener acceso al histórico de mis consumos.
 
-### Análisis de Heurísticas ###
+## Análisis de Heurísticas
 
-**Checklist** de App MÜEVE
+**Checklist** 
 - [ ] Visibilidad del Estado del Sistema: 
 * Muestra barras de proceso de información, 
 * Muestran mensajes de confirmación que indican que la tarea se ha finalizado con éxito.
@@ -243,16 +250,16 @@ Yo como usuario, quiero tener acceso al histórico de mis consumos.
 
 
 Observaciones en la app Müeve:
--No se logra un login correcto.
--No es intuitiva debido a que algunos botones no tienen consistencia dentro de la app.
--Tiene errores técnicos, ya que se cierra cuando se intenta regresar al menú o a la actividad anterior.
--No muestra el proceso de la información mientras se está cargando.
--Los íconos no tienen consistencia.
--La tipografía y los estándares establecidos no tienen consistencia.
--El logo no tiene el formato correcto puesto que se distorsiona al iniciar la app.
--El usuario no puede regresar por falta de íconos de error o el regreso no funciona.
--No hay facilidad para desplazarse.
--No tiene un punto de ayuda o chat de comunicación para  auxiliar al usuario.
+- No se logra un login correcto.
+- No es intuitiva debido a que algunos botones no tienen consistencia dentro de la app.
+- Tiene errores técnicos, ya que se cierra cuando se intenta regresar al menú o a la actividad anterior.
+- No muestra el proceso de la información mientras se está cargando.
+- Los íconos no tienen consistencia.
+- La tipografía y los estándares establecidos no tienen consistencia.
+- El logo no tiene el formato correcto puesto que se distorsiona al iniciar la app.
+- El usuario no puede regresar por falta de íconos de error o el regreso no funciona.
+- No hay facilidad para desplazarse.
+- No tiene un punto de ayuda o chat de comunicación para  auxiliar al usuario.
 
 
 ## Etapa de descubrimiento ##
