@@ -290,7 +290,7 @@ Los Estados con mayor venta de vehículos híbridos y eléctricos son Ciudad de 
 
 ## User Persona 💁‍
 
-Para nuestra User Persona utilizamos el método de shadowing en redes sociales, que nos permitió conocer en poco tiempo, a los dueños de autos eléctricos que fomentan el uso de ellos. Realizamos una encuesta que hicimos llegar a un club de Fans de Autos Eléctricos, sin embargo la falta de tiempo no permitió que ellos nos dieran alguna respuesta favorable. Por lo que optamos por encontrar un perfil con respecto a los distintos perfiles que localizamos de personas que tienen autos eléctricos buscando un patrón de ellos. Por lo regular son personas que tienen familia, y ven a futuro por el bienestar de ellos.
+Para nuestra User Persona utilizamos el método de shadowing en redes sociales, que nos permitió conocer en poco tiempo a los dueños de autos eléctricos que fomentan el uso de los mismos. Realizamos una encuesta que hicimos llegar a un club de Fans de Autos Eléctricos, sin embargo, la falta de tiempo no permitió que ellos nos dieran alguna respuesta favorable. Por lo que optamos por encontrar un perfil con respecto a los distintos perfiles que localizamos de personas que tienen autos eléctricos buscando un patrón de ellos. Por lo regular son personas que tienen familia y ven a futuro por el bienestar de ellos.
 
 
 - ![benchmark](./images/user.png)
@@ -300,15 +300,15 @@ Para nuestra User Persona utilizamos el método de shadowing en redes sociales, 
 
 Historia de nuestro usuario documentada en video:
 
-Allan sale de su hogar y aborda junto con su esposa un Taxari vehículo Italiano 100% eléctrico, empieza a narrar cómo se utilizan este tipo de vehículos nos comenta que el precio del auto es de $669,000 MXN,narra el recorrido que tiene que efectuar en las mañanas  con su auto eléctrico , su esposa cometa de que un detalle con los autos eléctricos es que la cuestión de la carga es delicada debido a que puedes quedarte sin carga y es un problemática nuevamente por la falta de infraestructua, también menciona que la carga del vehículo se da con una corriente 220 y rinde hasta 150 Km con una carga de entre 9 y 10 horas. 
+Allan sale de su hogar y aborda junto con su esposa un Taxari vehículo italiano 100% eléctrico, empieza a narrar cómo se utilizan este tipo de vehículos nos comenta que el precio del auto es de $669,000 MXN. Narra el recorrido que tiene que efectuar en las mañanas con su auto eléctrico. Su esposa comenta que un detalle de los autos eléctricos es que la cuestión de la carga es delicada debido a que puedes quedarte sin energía y es una problemática por la falta de infraestructua. También menciona que la carga del vehículo se da con una corriente 220 y rinde hasta 150 Km con una carga de entre 9 y 10 horas. 
 
 Video:
 https://www.facebook.com/franciscomcabeza/videos/vb.713948332/10156341035933333/?type=2&video_source=user_video_tab
 
 ## Propuesta de Valor  🏆
 
-Para este punto ya utilizando las herramientas del análisis de heurísticas de la aplicación Müeve, así como un benchmark de la competencia que nos permitió verificar que están ofreciendo en sus aplicaciones y que se podría implementar.
-Decidimos utilizar la herramienta de value proposition canvas para fijar qué es lo que se tenía que corregir de diseño en la aplicación.
+Para este punto, utilizando las herramientas del análisis de heurísticas de la aplicación Müeve, así como un benchmark de la competencia, nos permitieron verificar qué están ofreciendo en sus aplicaciones y qué se podría implementar.
+Decidimos utilizar la herramienta de *value proposition canvas* para fijar qué es lo que se tenía que corregir de diseño en la aplicación.
 
 
 
