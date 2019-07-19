@@ -271,11 +271,7 @@ Observaciones en la app Müeve:
 * No tiene un punto de ayuda o chat de comunicación para  auxiliar al usuario.
 
 
-
-
-
-
-### Contexto ### 📋
+### Contexto 📋
 
 
 México cuenta con 900 estaciones de carga para vehículos eléctricos.
